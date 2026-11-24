@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@cookie-cms/renderer": "^2.1.2",
-    "archiver": "^8.0.0",
+    "archiver": "^7.0.1",
     "discord.js": "^14.27.0",
     "dotenv": "^18.0.8",
     "mc-server-ping": "^1.0.0",
@@ -10,6 +10,7 @@
     "sharp": "^0.35.5",
     "ssh2-sftp-client": "^12.1.1",
     "systeminformation": "^5.33.23",
-    "ws": "^8.22.0"
+    "ws": "^8.22.0",
+    "yauzl": "^3.4.0"
   }
 }
